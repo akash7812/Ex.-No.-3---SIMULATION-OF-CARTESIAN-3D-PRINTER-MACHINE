@@ -60,7 +60,8 @@
 
 ## Output:
 
-![Uploading Screenshot 2024-04-25 172714.png…]()
+![Screenshot 2024-04-25 172714](https://github.com/akash7812/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/146819826/786d647e-1be4-406b-b8e5-ecbf63d8b58d)
+
 
 
 
