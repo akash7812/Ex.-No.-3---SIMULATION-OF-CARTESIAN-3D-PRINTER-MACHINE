@@ -60,8 +60,12 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![Uploading Screenshot 2024-04-25 172714.png…]()
+
+
+
+### Name:AKASH KUMAR M.
+### Register Number:21222323001
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
